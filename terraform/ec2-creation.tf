@@ -3,7 +3,7 @@
 provider "aws" {
   shared_credentials_file = "~/.aws/credentials"
   region                  = "us-east-1"
-  profile                 = "codeassigment"
+  profile                 = "default"
 }
 
 # Define security group for SSH-connections
