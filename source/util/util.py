@@ -132,20 +132,3 @@ class Util:
                                   f"{item['memory_percent']}" + "\n")
 
         return tittle + line
-
-    def validip4address(self, address):
-        """
-        Validate if a IP is a valid IP4 address
-        :param address: IP address number
-        :return: True if valid, false, if not
-        """
-        try:
-            socket.inet_pton(socket.AF_INET, address)
-        except AttributeError:  # no inet_pton here, sorry
-            try:
-                socket.inet_aton(address)
-            except socket.error:
-                return False
-            return address.count('.') == 3
-        except socket.error:  # not a valid address
-            return False

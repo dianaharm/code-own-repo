@@ -4,6 +4,12 @@ import importlib.util
 import subprocess
 import sys
 
+"""
+    Script that will check if necessary python libraries are installed
+    package_list_name is the list of packages that must be installed in order 
+    to make application work.
+"""
+
 package_list_name = ['psutil', 'python-dotenv']
 
 for package in package_list_name:

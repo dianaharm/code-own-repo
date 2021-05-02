@@ -20,6 +20,7 @@ class Log:
         """
         # Generate log path
         report_path = base_path + "/log_files/" + log_name + ".txt"
+        print(report_path)
 
         # Storage value in the attribute class
         self.path = report_path

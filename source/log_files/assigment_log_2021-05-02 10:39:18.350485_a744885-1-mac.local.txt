@@ -1,0 +1,375 @@
+>>>>>>>>>>List of all process<<<<<<<<<<
+ PID 			Name				Username			Creation datetime			CPU %			Memory %
+108			loginwindow				root			04/19/2021, 00:00:00			0.00 %			0.34 %
+416			coreauthd				a744885			04/19/2021, 00:00:00			0.00 %			0.06 %
+418			cfprefsd				a744885			04/19/2021, 00:00:00			0.00 %			0.03 %
+419			UserEventAgent				a744885			04/19/2021, 00:00:00			0.00 %			0.21 %
+421			distnoted				a744885			04/19/2021, 00:00:00			0.00 %			0.03 %
+426			CommCenter				a744885			04/19/2021, 00:00:00			0.00 %			0.18 %
+428			lsd				a744885			04/19/2021, 00:00:00			0.00 %			0.06 %
+430			trustd				a744885			04/19/2021, 00:00:00			0.00 %			0.10 %
+431			secd				a744885			04/19/2021, 00:00:00			0.00 %			0.08 %
+433			backgroundtaskmanagementagent				a744885			04/19/2021, 00:00:00			0.00 %			0.04 %
+435			cloudd				a744885			04/19/2021, 00:00:00			0.00 %			0.17 %
+436			spindump_agent				a744885			04/19/2021, 00:00:00			0.00 %			0.03 %
+439			callservicesd				a744885			04/19/2021, 00:00:00			0.00 %			0.16 %
+440			rapportd				a744885			04/19/2021, 00:00:00			0.00 %			0.10 %
+442			accountsd				a744885			04/19/2021, 00:00:00			0.00 %			0.05 %
+443			talagent				a744885			04/19/2021, 00:00:00			0.00 %			0.10 %
+444			Dock				a744885			04/19/2021, 00:00:00			0.00 %			0.57 %
+445			identityservicesd				a744885			04/19/2021, 00:00:00			0.00 %			0.10 %
+447			tccd				a744885			04/19/2021, 00:00:00			0.00 %			0.06 %
+448			imagent				a744885			04/19/2021, 00:00:00			0.00 %			0.13 %
+449			SystemUIServer				a744885			04/19/2021, 00:00:00			0.00 %			0.35 %
+450			nsurlsessiond				a744885			04/19/2021, 00:00:00			0.00 %			0.10 %
+451			pboard				a744885			04/19/2021, 00:00:00			0.00 %			0.04 %
+452			Finder				a744885			04/19/2021, 00:00:00			0.00 %			0.63 %
+453			IMDPersistenceAgent				a744885			04/19/2021, 00:00:00			0.00 %			0.10 %
+457			VTDecoderXPCService				a744885			04/19/2021, 00:00:00			0.00 %			0.10 %
+458			CloudKeychainProxy				a744885			04/19/2021, 00:00:00			0.00 %			0.03 %
+459			bird				a744885			04/19/2021, 00:00:00			0.00 %			0.09 %
+460			ContactsAccountsService				a744885			04/19/2021, 00:00:00			0.00 %			0.10 %
+461			usernoted				a744885			04/19/2021, 00:00:00			0.00 %			0.10 %
+463			ViewBridgeAuxiliary				a744885			04/19/2021, 00:00:00			0.00 %			0.08 %
+465			sharedfilelistd				a744885			04/19/2021, 00:00:00			0.00 %			0.05 %
+468			fontd				a744885			04/19/2021, 00:00:00			0.00 %			0.06 %
+470			NotificationCenter				a744885			04/19/2021, 00:00:00			0.00 %			0.39 %
+474			IMRemoteURLConnectionAgent				a744885			04/19/2021, 00:00:00			0.00 %			0.06 %
+475			sharingd				a744885			04/19/2021, 00:00:00			0.00 %			0.19 %
+479			nsurlstoraged				a744885			04/19/2021, 00:00:00			0.00 %			0.06 %
+480			fmfd				a744885			04/19/2021, 00:00:00			0.00 %			0.12 %
+482			soagent				a744885			04/19/2021, 00:00:00			0.00 %			0.17 %
+483			useractivityd				a744885			04/19/2021, 00:00:00			0.00 %			0.06 %
+484			IMRemoteURLConnectionAgent				a744885			04/19/2021, 00:00:00			0.00 %			0.06 %
+486			IMRemoteURLConnectionAgent				a744885			04/19/2021, 00:00:00			0.00 %			0.03 %
+487			corespeechd				a744885			04/19/2021, 00:00:00			0.00 %			0.14 %
+489			routined				a744885			04/19/2021, 00:00:00			0.00 %			0.19 %
+492			SocialPushAgent				a744885			04/19/2021, 00:00:00			0.00 %			0.08 %
+497			dmd				a744885			04/19/2021, 00:00:00			0.00 %			0.09 %
+498			imklaunchagent				a744885			04/19/2021, 00:00:00			0.00 %			0.07 %
+499			icdd				a744885			04/19/2021, 00:00:00			0.00 %			0.09 %
+500			logger				a744885			04/19/2021, 00:00:00			0.00 %			0.17 %
+502			Code42Desktop				a744885			04/19/2021, 00:00:00			0.00 %			0.38 %
+503			xagtnotif				a744885			04/19/2021, 00:00:00			0.00 %			0.10 %
+504			PulseTray				a744885			04/19/2021, 00:00:00			0.00 %			0.34 %
+505			CalendarAgent				a744885			04/19/2021, 00:00:00			0.00 %			0.19 %
+507			postgres				a744885			04/19/2021, 00:00:00			0.00 %			0.03 %
+508			AirPlayUIAgent				a744885			04/19/2021, 00:00:00			0.00 %			0.10 %
+510			knowledge-agent				a744885			04/19/2021, 00:00:00			0.00 %			0.08 %
+511			cloudpaird				a744885			04/19/2021, 00:00:00			0.00 %			0.11 %
+513			nbagent				a744885			04/19/2021, 00:00:00			0.00 %			0.14 %
+514			diagnostics_agent				a744885			04/19/2021, 00:00:00			0.00 %			0.10 %
+515			adprivacyd				a744885			04/19/2021, 00:00:00			0.00 %			0.10 %
+517			iconservicesagent				a744885			04/19/2021, 00:00:00			0.00 %			0.08 %
+518			Spotlight				a744885			04/19/2021, 00:00:00			0.00 %			0.45 %
+519			ctkahp				a744885			04/19/2021, 00:00:00			0.00 %			0.05 %
+522			com.apple.dock.extra				a744885			04/19/2021, 00:00:00			0.00 %			0.19 %
+523			ControlStrip				a744885			04/19/2021, 00:00:00			0.00 %			0.24 %
+524			Atlassian Companion				a744885			04/19/2021, 00:00:00			0.00 %			0.39 %
+525			networkserviceproxy				a744885			04/19/2021, 00:00:00			0.00 %			0.06 %
+526			APFSUserAgent				a744885			04/19/2021, 00:00:00			0.00 %			0.03 %
+527			storeaccountd				a744885			04/19/2021, 00:00:00			0.00 %			0.09 %
+532			pbs				a744885			04/19/2021, 00:00:00			0.00 %			0.04 %
+534			WiFiAgent				a744885			04/19/2021, 00:00:00			0.00 %			0.10 %
+536			ctkd				a744885			04/19/2021, 00:00:00			0.00 %			0.06 %
+537			SafeEjectGPUAgent				a744885			04/19/2021, 00:00:00			0.00 %			0.05 %
+542			postgres				a744885			04/19/2021, 00:00:00			0.00 %			0.00 %
+543			postgres				a744885			04/19/2021, 00:00:00			0.00 %			0.00 %
+544			postgres				a744885			04/19/2021, 00:00:00			0.00 %			0.00 %
+545			postgres				a744885			04/19/2021, 00:00:00			0.00 %			0.01 %
+546			postgres				a744885			04/19/2021, 00:00:00			0.00 %			0.00 %
+547			postgres				a744885			04/19/2021, 00:00:00			0.00 %			0.00 %
+548			SafeEjectGPUService				a744885			04/19/2021, 00:00:00			0.00 %			0.05 %
+549			PrintUITool				a744885			04/19/2021, 00:00:00			0.00 %			0.13 %
+550			commerce				a744885			04/19/2021, 00:00:00			0.00 %			0.11 %
+554			parsecd				a744885			04/19/2021, 00:00:00			0.00 %			0.13 %
+558			ReportCrash				a744885			04/19/2021, 00:00:00			0.00 %			0.10 %
+559			CoreLocationAgent				a744885			04/19/2021, 00:00:00			0.00 %			0.11 %
+563			CalNCService				a744885			04/19/2021, 00:00:00			0.00 %			0.17 %
+564			PAH_Extension				a744885			04/19/2021, 00:00:00			0.00 %			0.10 %
+565			fileproviderd				a744885			04/19/2021, 00:00:00			0.00 %			0.06 %
+566			EmojiFunctionRowIM_Extension				a744885			04/19/2021, 00:00:00			0.00 %			0.16 %
+571			WiFiProxy				a744885			04/19/2021, 00:00:00			0.00 %			0.08 %
+572			Atlassian Companion Helper (GPU)				a744885			04/19/2021, 00:00:00			0.00 %			0.17 %
+573			com.apple.geod				a744885			04/19/2021, 00:00:00			0.00 %			0.06 %
+578			CallHistoryPluginHelper				a744885			04/19/2021, 00:00:00			0.00 %			0.05 %
+586			Atlassian Companion Helper				a744885			04/19/2021, 00:00:00			0.00 %			0.11 %
+587			softwareupdate_notify_agent				a744885			04/19/2021, 00:00:00			0.00 %			0.07 %
+589			VTDecoderXPCService				a744885			04/19/2021, 00:00:00			0.00 %			0.03 %
+592			com.apple.CharacterPicker.FileService				a744885			04/19/2021, 00:00:00			0.00 %			0.05 %
+593			IMRemoteURLConnectionAgent				a744885			04/19/2021, 00:00:00			0.00 %			0.06 %
+594			Electron Helper (GPU)				a744885			04/19/2021, 00:00:00			0.00 %			0.14 %
+598			swcd				a744885			04/19/2021, 00:00:00			0.00 %			0.04 %
+599			Docker				a744885			04/19/2021, 00:00:00			0.00 %			0.23 %
+600			assistantd				a744885			04/19/2021, 00:00:00			0.00 %			0.14 %
+604			VTDecoderXPCService				a744885			04/19/2021, 00:00:00			0.00 %			0.03 %
+607			com.docker.backend				a744885			04/19/2021, 00:00:00			0.00 %			0.10 %
+611			storelegacy				a744885			04/19/2021, 00:00:00			0.00 %			0.09 %
+612			storeassetd				a744885			04/19/2021, 00:00:00			0.00 %			0.12 %
+614			LaterAgent				a744885			04/19/2021, 00:00:00			0.00 %			0.15 %
+615			com.apple.CommerceKit.TransactionService				a744885			04/19/2021, 00:00:00			0.00 %			0.07 %
+617			MirrorDisplays				a744885			04/19/2021, 00:00:00			0.00 %			0.13 %
+625			com.apple.hiservices-xpcservice				a744885			04/19/2021, 00:00:00			0.00 %			0.03 %
+626			akd				a744885			04/19/2021, 00:00:00			0.00 %			0.04 %
+630			loginitemregisterd				a744885			04/19/2021, 00:00:00			0.00 %			0.03 %
+631			colorsync.useragent				a744885			04/19/2021, 00:00:00			0.00 %			0.03 %
+633			com.docker.supervisor				a744885			04/19/2021, 00:00:00			0.00 %			0.18 %
+658			com.docker.osxfs				a744885			04/19/2021, 00:00:00			0.00 %			0.03 %
+661			com.docker.vpnkit				a744885			04/19/2021, 00:00:00			0.00 %			0.06 %
+662			vpnkit-bridge				a744885			04/19/2021, 00:00:00			0.00 %			0.19 %
+663			com.docker.driver.amd64-linux				a744885			04/19/2021, 00:00:00			0.00 %			0.07 %
+664			docker				a744885			04/19/2021, 00:00:00			0.00 %			0.10 %
+671			com.docker.hyperkit				a744885			04/19/2021, 00:00:00			0.00 %			0.10 %
+691			PulseSetupClient				a744885			04/19/2021, 00:00:00			0.00 %			0.12 %
+693			AppleSpell				a744885			04/19/2021, 00:00:00			0.00 %			1.11 %
+694			ssh-agent				a744885			04/19/2021, 00:00:00			0.00 %			0.03 %
+696			keyboardservicesd				a744885			04/19/2021, 00:00:00			0.00 %			0.08 %
+698			suggestd				a744885			04/19/2021, 00:00:00			0.00 %			0.27 %
+702			Atlassian Companion Helper (Renderer)				a744885			04/19/2021, 00:00:00			0.00 %			0.24 %
+791			SafariBookmarksSyncAgent				a744885			04/19/2021, 00:00:00			0.00 %			0.18 %
+833			diskimages-helper				a744885			04/19/2021, 00:00:00			0.00 %			0.04 %
+845			Electron				a744885			04/19/2021, 00:00:00			0.00 %			0.55 %
+847			chrome_crashpad_handler				a744885			04/19/2021, 00:00:00			0.00 %			0.05 %
+848			Code Helper (GPU)				a744885			04/19/2021, 00:00:00			0.00 %			0.26 %
+851			Code Helper				a744885			04/19/2021, 00:00:00			0.00 %			0.17 %
+859			VTDecoderXPCService				a744885			04/19/2021, 00:00:00			0.00 %			0.03 %
+860			com.apple.speech.speechsynthesisd				a744885			04/19/2021, 00:00:00			0.00 %			0.06 %
+867			Code Helper (Renderer)				a744885			04/19/2021, 00:00:00			0.00 %			0.47 %
+869			Code Helper (Renderer)				a744885			04/19/2021, 00:00:00			0.00 %			0.18 %
+960			MTLCompilerService				a744885			04/19/2021, 00:00:00			0.00 %			0.03 %
+1041			Slack				a744885			04/19/2021, 00:00:00			0.00 %			0.69 %
+1042			Slack Helper (GPU)				a744885			04/19/2021, 00:00:00			0.00 %			0.32 %
+1045			chrome_crashpad_handler				a744885			04/19/2021, 00:00:00			0.00 %			0.07 %
+1046			VTDecoderXPCService				a744885			04/19/2021, 00:00:00			0.00 %			0.03 %
+1048			Slack Helper				a744885			04/19/2021, 00:00:00			0.00 %			0.23 %
+1049			Slack Helper (Renderer)				a744885			04/19/2021, 00:00:00			0.00 %			1.36 %
+1050			MTLCompilerService				a744885			04/19/2021, 00:00:00			0.00 %			0.03 %
+1229			cloudphotosd				a744885			04/19/2021, 00:00:00			0.00 %			0.18 %
+1234			com.apple.CloudPhotosConfiguration				a744885			04/19/2021, 00:00:00			0.00 %			0.13 %
+1238			photolibraryd				a744885			04/19/2021, 00:00:00			0.00 %			0.09 %
+1242			AudioComponentRegistrar				a744885			04/19/2021, 00:00:00			0.00 %			0.03 %
+1279			MTLCompilerService				a744885			04/19/2021, 00:00:00			0.00 %			0.06 %
+1286			MTLCompilerService				a744885			04/19/2021, 00:00:00			0.00 %			0.03 %
+1302			atsd				a744885			04/19/2021, 00:00:00			0.00 %			0.03 %
+1371			Slack Helper				a744885			04/19/2021, 00:00:00			0.00 %			0.13 %
+1372			com.apple.audio.SandboxHelper				a744885			04/19/2021, 00:00:00			0.00 %			0.05 %
+1379			appstoreagent				a744885			04/19/2021, 00:00:00			0.00 %			0.10 %
+1381			storedownloadd				a744885			04/19/2021, 00:00:00			0.00 %			0.09 %
+1399			IMAutomaticHistoryDeletionAgent				a744885			04/19/2021, 00:00:00			0.00 %			0.10 %
+1400			photoanalysisd				a744885			04/19/2021, 00:00:00			0.00 %			0.15 %
+1465			com.apple.quicklook.ThumbnailsAgent				a744885			04/19/2021, 00:00:00			0.00 %			0.04 %
+1466			silhouette				a744885			04/19/2021, 00:00:00			0.00 %			0.06 %
+1467			UsageTrackingAgent				a744885			04/19/2021, 00:00:00			0.00 %			0.06 %
+1482			media-indexer				a744885			04/19/2021, 00:00:00			0.00 %			0.09 %
+1483			com.apple.iTunesLibraryService				a744885			04/19/2021, 00:00:00			0.00 %			0.06 %
+1492			corespotlightd				a744885			04/19/2021, 00:00:00			0.00 %			0.16 %
+1493			followupd				a744885			04/19/2021, 00:00:00			0.00 %			0.05 %
+1494			mdworker				a744885			04/19/2021, 00:00:00			0.00 %			0.06 %
+1917			storeuid				a744885			04/19/2021, 00:00:00			0.00 %			0.14 %
+1992			mdwrite				a744885			04/19/2021, 00:00:00			0.00 %			0.04 %
+1995			ScopedBookmarkAgent				a744885			04/19/2021, 00:00:00			0.00 %			0.04 %
+2469			mapspushd				a744885			04/19/2021, 00:00:00			0.00 %			0.08 %
+2798			Google Chrome Helper (Renderer)				a744885			05/02/2021, 00:00:00			0.00 %			0.50 %
+2854			bash				a744885			05/02/2021, 00:00:00			0.00 %			0.01 %
+3658			jcef Helper (GPU)				a744885			05/02/2021, 00:00:00			0.00 %			0.20 %
+3662			jcef Helper				a744885			05/02/2021, 00:00:00			0.00 %			0.14 %
+3663			VTDecoderXPCService				a744885			05/02/2021, 00:00:00			0.00 %			0.04 %
+3813			MTLCompilerService				a744885			05/02/2021, 00:00:00			0.00 %			0.05 %
+3905			Google Chrome Helper (Renderer)				a744885			05/02/2021, 00:00:00			0.00 %			0.47 %
+3991			Google Chrome Helper (Renderer)				a744885			05/02/2021, 00:00:00			0.00 %			0.57 %
+4015			Falcon Notifications				a744885			05/02/2021, 00:00:00			0.00 %			0.10 %
+4593			USBAgent				a744885			04/19/2021, 00:00:00			0.00 %			0.05 %
+4981			CoreServicesUIAgent				a744885			05/02/2021, 00:00:00			0.00 %			0.10 %
+5023			EscrowSecurityAlert				a744885			04/20/2021, 00:00:00			0.00 %			0.15 %
+5232			Google Chrome Helper (Renderer)				a744885			05/02/2021, 00:00:00			0.00 %			0.79 %
+5354			Google Chrome Helper (Renderer)				a744885			05/02/2021, 00:00:00			0.00 %			0.18 %
+5667			deleted				a744885			04/20/2021, 00:00:00			0.00 %			0.04 %
+7438			bash				a744885			05/02/2021, 00:00:00			0.00 %			0.01 %
+7521			ssh				a744885			05/02/2021, 00:00:00			0.00 %			0.04 %
+8102			mdworker_shared				a744885			05/02/2021, 00:00:00			0.00 %			0.14 %
+8118			Microsoft Teams Helper (Renderer)				a744885			05/02/2021, 00:00:00			0.00 %			0.22 %
+8126			mdworker_shared				a744885			05/02/2021, 00:00:00			0.00 %			0.09 %
+8252			mdworker_shared				a744885			05/02/2021, 00:00:00			0.00 %			0.13 %
+8262			mdworker_shared				a744885			05/02/2021, 00:00:00			0.00 %			0.10 %
+8263			mdworker_shared				a744885			05/02/2021, 00:00:00			0.00 %			0.10 %
+8264			mdworker_shared				a744885			05/02/2021, 00:00:00			0.00 %			0.10 %
+8265			mdworker_shared				a744885			05/02/2021, 00:00:00			0.00 %			0.12 %
+8283			Python				a744885			05/02/2021, 00:00:00			0.00 %			0.07 %
+10571			com.apple.siri-distributed-evaluation				a744885			04/20/2021, 00:00:00			0.00 %			0.10 %
+18252			com.apple.DictionaryServiceHelper				a744885			04/20/2021, 00:00:00			0.00 %			0.03 %
+20724			com.apple.MediaLibraryService				a744885			04/20/2021, 00:00:00			0.00 %			0.14 %
+24448			DiskUnmountWatcher				a744885			04/21/2021, 00:00:00			0.00 %			0.03 %
+27389			Code Helper (Renderer)				a744885			04/29/2021, 00:00:00			0.00 %			0.95 %
+27943			Code Helper (Renderer)				a744885			04/29/2021, 00:00:00			0.00 %			0.17 %
+27950			Code Helper (Renderer)				a744885			04/29/2021, 00:00:00			0.00 %			0.31 %
+27953			Code Helper (Renderer)				a744885			04/29/2021, 00:00:00			0.00 %			0.17 %
+28041			bash				a744885			04/29/2021, 00:00:00			0.00 %			0.01 %
+30309			printtool				a744885			04/22/2021, 00:00:00			0.00 %			0.06 %
+32189			jamfAgent				a744885			04/30/2021, 00:00:00			0.00 %			0.07 %
+36644			NowPlayingTouchUI				a744885			04/22/2021, 00:00:00			0.00 %			0.12 %
+36882			Code Helper (Renderer)				a744885			04/30/2021, 00:00:00			0.00 %			0.18 %
+40868			Google Chrome				a744885			04/30/2021, 00:00:00			0.00 %			3.59 %
+40872			chrome_crashpad_handler				a744885			04/30/2021, 00:00:00			0.00 %			0.05 %
+40885			Google Chrome Helper (GPU)				a744885			04/30/2021, 00:00:00			0.00 %			0.83 %
+40887			Google Chrome Helper				a744885			04/30/2021, 00:00:00			0.00 %			0.53 %
+40888			AlertNotificationService				a744885			04/30/2021, 00:00:00			0.00 %			0.05 %
+40891			Google Chrome Helper				a744885			04/30/2021, 00:00:00			0.00 %			0.15 %
+40893			VTDecoderXPCService				a744885			04/30/2021, 00:00:00			0.00 %			0.04 %
+40895			Google Chrome Helper (Renderer)				a744885			04/30/2021, 00:00:00			0.00 %			0.46 %
+40896			Google Chrome Helper (Renderer)				a744885			04/30/2021, 00:00:00			0.00 %			0.26 %
+40897			Google Chrome Helper (Renderer)				a744885			04/30/2021, 00:00:00			0.00 %			0.47 %
+40898			Google Chrome Helper (Renderer)				a744885			04/30/2021, 00:00:00			0.00 %			0.25 %
+40899			Google Chrome Helper (Renderer)				a744885			04/30/2021, 00:00:00			0.00 %			0.66 %
+40902			Google Chrome Helper (Renderer)				a744885			04/30/2021, 00:00:00			0.00 %			0.65 %
+40904			Google Chrome Helper (Renderer)				a744885			04/30/2021, 00:00:00			0.00 %			0.33 %
+40906			Google Chrome Helper (Renderer)				a744885			04/30/2021, 00:00:00			0.00 %			0.33 %
+40909			Google Chrome Helper (Renderer)				a744885			04/30/2021, 00:00:00			0.00 %			0.35 %
+40911			Google Chrome Helper				a744885			04/30/2021, 00:00:00			0.00 %			0.15 %
+40917			Google Chrome Helper (Renderer)				a744885			04/30/2021, 00:00:00			0.00 %			0.40 %
+40919			Google Chrome Helper (Renderer)				a744885			04/30/2021, 00:00:00			0.00 %			0.40 %
+40921			Google Chrome Helper (Renderer)				a744885			04/30/2021, 00:00:00			0.00 %			0.41 %
+40923			Google Chrome Helper (Renderer)				a744885			04/30/2021, 00:00:00			0.00 %			0.41 %
+40927			Google Chrome Helper (Renderer)				a744885			04/30/2021, 00:00:00			0.00 %			0.40 %
+40930			Google Chrome Helper (Renderer)				a744885			04/30/2021, 00:00:00			0.00 %			0.33 %
+40935			Google Chrome Helper (Renderer)				a744885			04/30/2021, 00:00:00			0.00 %			0.33 %
+40937			Google Chrome Helper (Renderer)				a744885			04/30/2021, 00:00:00			0.00 %			0.42 %
+40951			Google Chrome Helper (Renderer)				a744885			04/30/2021, 00:00:00			0.00 %			0.54 %
+40953			Google Chrome Helper (Renderer)				a744885			04/30/2021, 00:00:00			0.00 %			1.50 %
+40974			Google Chrome Helper (Renderer)				a744885			04/30/2021, 00:00:00			0.00 %			0.32 %
+40975			Google Chrome Helper (Renderer)				a744885			04/30/2021, 00:00:00			0.00 %			0.39 %
+40976			Google Chrome Helper (Renderer)				a744885			04/30/2021, 00:00:00			0.00 %			0.40 %
+40977			Google Chrome Helper (Renderer)				a744885			04/30/2021, 00:00:00			0.00 %			0.35 %
+40978			Google Chrome Helper (Renderer)				a744885			04/30/2021, 00:00:00			0.00 %			1.35 %
+40984			com.apple.audio.SandboxHelper				a744885			04/30/2021, 00:00:00			0.00 %			0.05 %
+41006			MTLCompilerService				a744885			04/30/2021, 00:00:00			0.00 %			0.05 %
+45044			ProtectedCloudKeySyncing				a744885			04/23/2021, 00:00:00			0.00 %			0.08 %
+46138			MTLCompilerService				a744885			04/30/2021, 00:00:00			0.00 %			0.06 %
+50009			firefox				a744885			04/23/2021, 00:00:00			0.00 %			2.22 %
+50014			plugin-container				a744885			04/23/2021, 00:00:00			0.00 %			0.37 %
+50015			plugin-container				a744885			04/23/2021, 00:00:00			0.00 %			0.37 %
+50016			plugin-container				a744885			04/23/2021, 00:00:00			0.00 %			0.22 %
+54733			Google Chrome Helper (Renderer)				a744885			05/01/2021, 00:00:00			0.00 %			0.35 %
+66132			Microsoft Outlook				a744885			04/26/2021, 00:00:00			0.00 %			2.79 %
+68545			Google Chrome Helper (Renderer)				a744885			05/01/2021, 00:00:00			0.00 %			0.36 %
+68741			assertiond				a744885			04/26/2021, 00:00:00			0.00 %			0.03 %
+69660			MTLCompilerService				a744885			04/26/2021, 00:00:00			0.00 %			0.06 %
+72715			MTLCompilerService				a744885			04/26/2021, 00:00:00			0.00 %			0.03 %
+80774			Problem Reporter				a744885			04/27/2021, 00:00:00			0.00 %			0.28 %
+80898			Google Chrome Helper (Renderer)				a744885			05/01/2021, 00:00:00			0.00 %			1.06 %
+82102			coreautha				a744885			04/27/2021, 00:00:00			0.00 %			0.12 %
+82258			Google Chrome Helper (Renderer)				a744885			05/01/2021, 00:00:00			0.00 %			0.68 %
+82259			Google Chrome Helper (Renderer)				a744885			05/01/2021, 00:00:00			0.00 %			0.54 %
+82260			Google Chrome Helper (Renderer)				a744885			05/01/2021, 00:00:00			0.00 %			0.26 %
+82261			Google Chrome Helper (Renderer)				a744885			05/01/2021, 00:00:00			0.00 %			0.42 %
+82273			Google Chrome Helper (Renderer)				a744885			05/01/2021, 00:00:00			0.00 %			0.26 %
+82532			Google Chrome Helper (Renderer)				a744885			05/01/2021, 00:00:00			0.00 %			0.28 %
+82837			Google Chrome Helper (Renderer)				a744885			05/01/2021, 00:00:00			0.00 %			0.37 %
+82868			Google Chrome Helper (Renderer)				a744885			05/01/2021, 00:00:00			0.00 %			0.88 %
+82871			Google Chrome Helper (Renderer)				a744885			05/01/2021, 00:00:00			0.00 %			0.25 %
+83193			Google Chrome Helper (Renderer)				a744885			05/01/2021, 00:00:00			0.00 %			0.62 %
+83194			Google Chrome Helper (Renderer)				a744885			05/01/2021, 00:00:00			0.00 %			0.28 %
+83195			Google Chrome Helper (Renderer)				a744885			05/01/2021, 00:00:00			0.00 %			0.25 %
+83196			Google Chrome Helper (Renderer)				a744885			05/01/2021, 00:00:00			0.00 %			0.35 %
+83213			iTerm2				a744885			05/01/2021, 00:00:00			0.00 %			1.12 %
+83222			iTermServer-3.4.6				a744885			05/01/2021, 00:00:00			0.00 %			0.03 %
+83226			pidinfo				a744885			05/01/2021, 00:00:00			0.00 %			0.03 %
+83912			TeamViewer_Desktop				a744885			05/01/2021, 00:00:00			0.00 %			0.11 %
+83921			TeamViewerHost				a744885			05/01/2021, 00:00:00			0.00 %			0.36 %
+85109			Electron Helper				a744885			05/01/2021, 00:00:00			0.00 %			0.13 %
+85200			PowerChime				a744885			04/27/2021, 00:00:00			0.00 %			0.11 %
+85303			Electron Helper (Renderer)				a744885			05/01/2021, 00:00:00			0.00 %			0.26 %
+85497			MTLCompilerService				a744885			04/27/2021, 00:00:00			0.00 %			0.06 %
+85621			MTLCompilerService				a744885			04/27/2021, 00:00:00			0.00 %			0.06 %
+85622			OSDUIHelper				a744885			04/27/2021, 00:00:00			0.00 %			0.11 %
+88713			LocationMenu				a744885			04/27/2021, 00:00:00			0.00 %			0.12 %
+88714			MTLCompilerService				a744885			04/27/2021, 00:00:00			0.00 %			0.06 %
+88827			idea				a744885			05/01/2021, 00:00:00			0.00 %			14.95 %
+88837			fsnotifier				a744885			05/01/2021, 00:00:00			0.00 %			0.03 %
+89018			com.apple.accessibility.mediaaccessibilityd				a744885			04/27/2021, 00:00:00			0.00 %			0.03 %
+92912			pkd				a744885			04/27/2021, 00:00:00			0.00 %			0.08 %
+92934			secinitd				a744885			04/27/2021, 00:00:00			0.00 %			0.04 %
+93053			Google Chrome Helper (Renderer)				a744885			05/01/2021, 00:00:00			0.00 %			0.39 %
+93072			cdpd				a744885			04/28/2021, 00:00:00			0.00 %			0.05 %
+93073			Keychain Circle Notification				a744885			04/28/2021, 00:00:00			0.00 %			0.20 %
+93075			com.apple.sbd				a744885			04/28/2021, 00:00:00			0.00 %			0.03 %
+93384			Google Chrome Helper (Renderer)				a744885			05/01/2021, 00:00:00			0.00 %			0.37 %
+94738			VIP Access				a744885			05/01/2021, 00:00:00			0.00 %			0.20 %
+95828			QuickTime Player				a744885			04/28/2021, 00:00:00			0.00 %			0.37 %
+95830			com.apple.audio.SandboxHelper				a744885			04/28/2021, 00:00:00			0.00 %			0.05 %
+96303			Sublime Text				a744885			04/28/2021, 00:00:00			0.00 %			0.63 %
+96305			plugin_host				a744885			04/28/2021, 00:00:00			0.00 %			0.08 %
+96609			Teams				a744885			05/01/2021, 00:00:00			0.00 %			0.76 %
+96611			crashpad_handler				a744885			05/01/2021, 00:00:00			0.00 %			0.05 %
+96612			Microsoft Teams Helper (GPU)				a744885			05/01/2021, 00:00:00			0.00 %			0.32 %
+96613			Microsoft Teams Helper				a744885			05/01/2021, 00:00:00			0.00 %			0.16 %
+96614			VTDecoderXPCService				a744885			05/01/2021, 00:00:00			0.00 %			0.03 %
+96616			Microsoft Teams Helper (Renderer)				a744885			05/01/2021, 00:00:00			0.00 %			0.29 %
+96617			Microsoft Teams Helper (Renderer)				a744885			05/01/2021, 00:00:00			0.00 %			1.79 %
+96618			Microsoft Teams Helper				a744885			05/01/2021, 00:00:00			0.00 %			0.12 %
+96631			Microsoft Teams Helper (Renderer)				a744885			05/01/2021, 00:00:00			0.00 %			0.37 %
+96632			Microsoft Teams Helper (Renderer)				a744885			05/01/2021, 00:00:00			0.00 %			0.43 %
+96851			MTLCompilerService				a744885			05/01/2021, 00:00:00			0.00 %			0.03 %
+97022			Code Helper (Renderer)				a744885			05/01/2021, 00:00:00			0.00 %			0.32 %
+97030			terraform-ls				a744885			05/01/2021, 00:00:00			0.00 %			0.70 %
+97031			terraform-ls				a744885			05/01/2021, 00:00:00			0.00 %			0.72 %
+97032			terraform-ls				a744885			05/01/2021, 00:00:00			0.00 %			0.70 %
+97033			terraform-ls				a744885			05/01/2021, 00:00:00			0.00 %			0.73 %
+97034			terraform-ls				a744885			05/01/2021, 00:00:00			0.00 %			0.71 %
+97713			bash				a744885			05/01/2021, 00:00:00			0.00 %			0.01 %
+98506			Google Chrome Helper (Renderer)				a744885			05/02/2021, 00:00:00			0.00 %			0.37 %
+99253			com.apple.WebKit.WebContent				a744885			05/02/2021, 00:00:00			0.00 %			0.19 %
+99254			com.apple.WebKit.Networking				a744885			05/02/2021, 00:00:00			0.00 %			0.12 %
+
+>>>>>>>>>>List of top 3 memory usage process<<<<<<<<<<
+ PID 			Name				Username			Creation datetime			CPU %			Memory %
+40868			Google Chrome				a744885			04/30/2021, 00:00:00				0.00 %			3.59 %
+66132			Microsoft Outlook				a744885			04/26/2021, 00:00:00				0.00 %			2.79 %
+50009			firefox				a744885			04/23/2021, 00:00:00				0.00 %			2.22 %
+
+>>>>>>>>>>List of top 3 CPU usage process<<<<<<<<<<
+ PID 			Name				Username			Creation datetime			CPU %			Memory %
+108			loginwindow				root			04/19/2021, 00:00:00				0.00 %			0.34 %
+416			coreauthd				a744885			04/19/2021, 00:00:00				0.00 %			0.06 %
+418			cfprefsd				a744885			04/19/2021, 00:00:00				0.00 %			0.03 %
+
+>>>>>>>>>>Disk information<<<<<<<<<<
+=== Device: /dev/disk1s1 ===
+  Mount point: /
+  File system type: apfs
+  Partition Mount options: rw,local,rootfs,dovolfs,journaled,multilabel
+  Total Size: {'PB': '0.0', 'TB': '0.228', 'GB': '233.469', 'MB': '239072.395', 'KB': '244810132.0', 'bytes': '250685575168.0'}
+  Used: {'PB': '0.0', 'TB': '0.117', 'GB': '119.993', 'MB': '122873.004', 'KB': '125821956.0', 'bytes': '128841682944.0'}
+  Free: {'PB': '0.0', 'TB': '0.103', 'GB': '105.828', 'MB': '108367.969', 'KB': '110968800.0', 'bytes': '113632051200.0'}
+  Percentage: 53.10%
+=== Device: /dev/disk1s4 ===
+  Mount point: /private/var/vm
+  File system type: apfs
+  Partition Mount options: rw,noexec,local,dovolfs,dontbrowse,journaled,multilabel,noatime
+  Total Size: {'PB': '0.0', 'TB': '0.228', 'GB': '233.469', 'MB': '239072.395', 'KB': '244810132.0', 'bytes': '250685575168.0'}
+  Used: {'PB': '0.0', 'TB': '0.007', 'GB': '7.0', 'MB': '7168.047', 'KB': '7340080.0', 'bytes': '7516241920.0'}
+  Free: {'PB': '0.0', 'TB': '0.103', 'GB': '105.828', 'MB': '108367.969', 'KB': '110968800.0', 'bytes': '113632051200.0'}
+  Percentage: 6.20%
+=== Device: /dev/disk2s1 ===
+  Mount point: /Volumes/Sublime Text
+  File system type: hfs
+  Partition Mount options: ro,nosuid,quarantine,local,dovolfs,ignore-ownership,multilabel
+  Total Size: {'PB': '0.0', 'TB': '0.0', 'GB': '0.051', 'MB': '52.586', 'KB': '53848.0', 'bytes': '55140352.0'}
+  Used: {'PB': '0.0', 'TB': '0.0', 'GB': '0.043', 'MB': '43.836', 'KB': '44888.0', 'bytes': '45965312.0'}
+  Free: {'PB': '0.0', 'TB': '0.0', 'GB': '0.009', 'MB': '8.75', 'KB': '8960.0', 'bytes': '9175040.0'}
+  Percentage: 83.40%
+=== Device: /Volumes/Sublime Text/Sublime Text.app ===
+  Mount point: /private/var/folders/s8/f916yx_x39n3g7gn8g1yg3m951s44v/T/AppTranslocation/92EF7E62-F28E-4828-B045-F8D11A30751A
+  File system type: nullfs
+  Partition Mount options: ro,nosuid,quarantine,local,dontbrowse,ignore-ownership,multilabel
+  Total Size: {'PB': '0.0', 'TB': '0.0', 'GB': '0.051', 'MB': '52.586', 'KB': '53848.0', 'bytes': '55140352.0'}
+  Used: {'PB': '0.0', 'TB': '0.0', 'GB': '0.043', 'MB': '43.836', 'KB': '44888.0', 'bytes': '45965312.0'}
+  Free: {'PB': '0.0', 'TB': '0.0', 'GB': '0.009', 'MB': '8.75', 'KB': '8960.0', 'bytes': '9175040.0'}
+  Percentage: 83.40%
+=== Device: /dev/disk1s3 ===
+  Mount point: /Volumes/Recovery
+  File system type: apfs
+  Partition Mount options: rw,local,dovolfs,dontbrowse,journaled,multilabel
+  Total Size: {'PB': '0.0', 'TB': '0.228', 'GB': '233.469', 'MB': '239072.395', 'KB': '244810132.0', 'bytes': '250685575168.0'}
+  Used: {'PB': '0.0', 'TB': '0.0', 'GB': '0.475', 'MB': '486.84', 'KB': '498524.0', 'bytes': '510488576.0'}
+  Free: {'PB': '0.0', 'TB': '0.103', 'GB': '105.828', 'MB': '108367.969', 'KB': '110968800.0', 'bytes': '113632051200.0'}
+  Percentage: 0.40%
