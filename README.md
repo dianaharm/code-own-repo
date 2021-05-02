@@ -20,6 +20,16 @@ Folder ```infrastructure``` contains a terraform file, ```ec2-creation.tf```, th
 - One security group that allows SSH connections to ec2 instances
 - 3 ec2 instances what have as security group the previous one create and the tag ```codeassigment```
 
+In this section you can configure the profile and access to aws, defining the provider and key access
+```
+provider "aws" {
+  shared_credentials_file = "~/.aws/credentials"
+  region                  = "us-east-1"
+  profile                 = "default"
+}
+```
+By default, it will connect with the ```default``` profile credentials for aws
+
 In order to execute this file, navigate to ```infrastructure``` folder and execute:
 ```
 terraform init 
